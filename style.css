@@ -1,0 +1,38 @@
+body{ 
+
+    background-color: blueviolet;
+    color:aliceblue;
+} 
+
+
+h1{ 
+    font-size: 22px ;
+    font-family: Arial;
+
+}
+
+
+
+.program{ 
+
+    background-color: burlywood;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.tankar{
+    text-align: right;
+}
+
+.mintext{
+
+   border-style: solid;
+   border-color: green;
+}
+
+.länk{ 
+
+    text-decoration: none;
+    
+}
