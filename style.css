@@ -36,3 +36,18 @@ h1{
     text-decoration: none;
     
 }
+
+table,tr,td,th {
+    border-color:black; 
+    border-width: 2px; 
+    border-style: Solid; 
+    border-collapse: collapse;
+    font-size: 30; 
+
+}
+
+tr:nth-child(2), tr:nth-child(4)
+{ 
+    background-color: Red; 
+
+}
