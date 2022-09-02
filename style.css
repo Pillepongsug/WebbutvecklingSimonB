@@ -42,7 +42,7 @@ table,tr,td,th {
     border-width: 2px; 
     border-style: Solid; 
     border-collapse: collapse;
-    font-size: 30; 
+    font-size: 30px; 
 
 }
 
@@ -50,4 +50,10 @@ tr:nth-child(2), tr:nth-child(4)
 { 
     background-color: Red; 
 
+}
+
+tr:nth-child(3), tr:nth-child(5)
+{   
+
+    background-color: limegreen;
 }
